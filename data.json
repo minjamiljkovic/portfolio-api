@@ -2,77 +2,77 @@
   {
     "id": "1",
     "name": "todo-app",
-    "image": "./images/1.png",
+    "image": "https://raw.githubusercontent.com/minjamiljkovic/portfolio-api/601382aeaf46880b6e875b3da38b73e71d71186e/images/1.png",
     "link": "http://famous-figolla-2023ec.netlify.app",
     "code": "https://github.com/minjamiljkovic/todo-app"
   },
   {
     "id": "2",
     "name": "tip-calculator",
-    "image": "./images/2.png",
+    "image": "https://raw.githubusercontent.com/minjamiljkovic/portfolio-api/601382aeaf46880b6e875b3da38b73e71d71186e/images/2.png",
     "link": "http://magnificent-raindrop-201fe4.netlify.app",
     "code": "https://github.com/minjamiljkovic/tip-calculator"
   },
   {
     "id": "3",
     "name": "comfy-shop",
-    "image": "./images/3.png",
+    "image": "https://raw.githubusercontent.com/minjamiljkovic/portfolio-api/601382aeaf46880b6e875b3da38b73e71d71186e/images/3.png",
     "link": "http://phenomenal-souffle-19bca2.netlify.app/products.html",
     "code": "https://github.com/minjamiljkovic/comfy-shop"
   },
   {
     "id": "4",
     "name": "calculator-app",
-    "image": "./images/4.png",
+    "image": "https://raw.githubusercontent.com/minjamiljkovic/portfolio-api/601382aeaf46880b6e875b3da38b73e71d71186e/images/4.png",
     "link": "http://lovely-cuchufli-88a5a7.netlify.app/",
     "code": "https://github.com/minjamiljkovic/calculator-app"
   },
   {
     "id":" 5",
     "name": "glint",
-    "image": "./images/5.png",
+    "image": "https://raw.githubusercontent.com/minjamiljkovic/portfolio-api/601382aeaf46880b6e875b3da38b73e71d71186e/images/5.png",
     "link": "http://polite-flan-4256c8.netlify.app/",
     "code": "https://github.com/minjamiljkovic/glint"
   },
   {
     "id": "6",
     "name": "agency-lancer",
-    "image": "/images/6.png",
+    "image": "https://github.com/minjamiljkovic/portfolio-api/blob/601382aeaf46880b6e875b3da38b73e71d71186e/images/6.png",
     "link": "http://thunderous-bubblegum-9a2ded.netlify.app/",
     "code": "https://github.com/minjamiljkovic/agencylancer"
   },
   {
     "id": "7",
     "name": "agency-lancer",
-    "image": "/images/7.png",
+    "image": "https://github.com/minjamiljkovic/portfolio-api/blob/601382aeaf46880b6e875b3da38b73e71d71186e/images/7.png",
     "link": "http://voluble-pegasus-c6fbf3.netlify.app/",
     "code": "https://github.com/minjamiljkovic/agency"
   },
   {
     "id": "8",
     "name": "advice-generator-app",
-    "image": "/images/8.png",
+    "image": "https://raw.githubusercontent.com/minjamiljkovic/portfolio-api/601382aeaf46880b6e875b3da38b73e71d71186e/images/8.png",
     "link": "http://magical-kringle-e75c61.netlify.app/",
     "code": "https://github.com/minjamiljkovic/advice-generator-app"
   },
   {
     "id": "9",
     "name": "results-summary-component-main",
-    "image": "/images/9.png",
+    "image": "https://raw.githubusercontent.com/minjamiljkovic/portfolio-api/601382aeaf46880b6e875b3da38b73e71d71186e/images/9.png",
     "link": "http://glittering-rolypoly-2ffc99.netlify.app/",
     "code": "https://github.com/minjamiljkovic/results-summary-component-main"
   },
   {
     "id": "10",
     "name": "random-user",
-    "image": "/images/10.png",
+    "image": "https://github.com/minjamiljkovic/portfolio-api/blob/601382aeaf46880b6e875b3da38b73e71d71186e/images/10.png",
     "link": "http://incandescent-pastelito-7ee146.netlify.app/",
     "code": "https://github.com/minjamiljkovic/random-user"
   },
   {
     "id": "11",
     "name": "cocktail-api",
-    "image": "/images/11.png",
+    "image": "https://raw.githubusercontent.com/minjamiljkovic/portfolio-api/601382aeaf46880b6e875b3da38b73e71d71186e/images/11.png",
    " link": "http://heartfelt-froyo-9f12fc.netlify.app/",
     "code": "https://github.com/minjamiljkovic/cocktail-api"
   }
