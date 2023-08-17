@@ -2,14 +2,14 @@
   {
     "id": "1",
     "name": "todo-app",
-    "image": "https://raw.githubusercontent.com/minjamiljkovic/portfolio-api/601382aeaf46880b6e875b3da38b73e71d71186e/images/1.png",
+    "image": "https://raw.githubusercontent.com/minjamiljkovic/portfolio-api1/master/images/1.png",
     "link": "http://famous-figolla-2023ec.netlify.app",
     "code": "https://github.com/minjamiljkovic/todo-app"
   },
   {
     "id": "2",
     "name": "tip-calculator",
-    "image": "https://raw.githubusercontent.com/minjamiljkovic/portfolio-api/601382aeaf46880b6e875b3da38b73e71d71186e/images/2.png",
+    "image": "https://raw.githubusercontent.com/minjamiljkovic/portfolio-api1/master/images/2.png",
     "link": "http://magnificent-raindrop-201fe4.netlify.app",
     "code": "https://github.com/minjamiljkovic/tip-calculator"
   },
