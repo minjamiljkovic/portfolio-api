@@ -50,14 +50,14 @@
   },
   {
     "id": "8",
-    "name": "advice-generator-app",
+    "name": "advice-generator",
     "image": "https://raw.githubusercontent.com/minjamiljkovic/portfolio-api1/master/images/8.png",
     "link": "http://magical-kringle-e75c61.netlify.app/",
     "code": "https://github.com/minjamiljkovic/advice-generator-app"
   },
   {
     "id": "9",
-    "name": "results-summary-component-main",
+    "name": "results-summary",
     "image": "https://raw.githubusercontent.com/minjamiljkovic/portfolio-api1/master/images/9.png",
     "link": "http://glittering-rolypoly-2ffc99.netlify.app/",
     "code": "https://github.com/minjamiljkovic/results-summary-component-main"
